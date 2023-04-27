@@ -54,6 +54,7 @@ body{
     .escola_imagem{
         width: 234px;
         height: 214px;
+        border-radius: 20px;
     }
 
     .professores{
