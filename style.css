@@ -100,5 +100,9 @@ body{
     color: #black;
     }
 
+    .cidade{
+        justify-content: end;
+    }
+
 
     
