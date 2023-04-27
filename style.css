@@ -68,11 +68,17 @@ body{
         padding: 1%;
     }
    
+    .professores_div-imagemb{
+        width: 150px;
+        height: 120px;
+        border-radius: 30px;
+    }
+    
     .professores_div-imagem{
         width: 112px;
         height: 120px;
     }
-    
+
     .rodape{
         background-color: ##C6FFD2;
     }
