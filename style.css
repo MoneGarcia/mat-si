@@ -46,6 +46,10 @@ body{
         border-radius: 40px;
     }
 
+    p.escola{
+        width: 50%;
+    }
+
     p.professores_div-paragrafo{
         width: 112px;
     }
@@ -75,7 +79,4 @@ body{
         background-color: ##C6FFD2;
     }
 
-    p.rodape{
-        display:block;
-    }
-
+    
