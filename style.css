@@ -93,7 +93,7 @@ body{
     }
 
     .menu_rodape{
-    display:flex;
+    display:grid;
     justify-items: space-around;
     margin-left: 100px;
     font-size: 20px;
